@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3a8c502a-bf24-4a85-97e4-9d8f7051bee0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ProjectId" id="1WhePwzmMnjdjK0FIoG1s0AjCHH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Resttest" />
+      <recent name="C:\Resttest\src\main\resources" />
+      <recent name="C:\Resttest\src\test\java\demotest" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.RestAPIautomation">
+    <configuration name="RestAPIautomation" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Resttest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demotest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="demotest" />
+      <option name="MAIN_CLASS_NAME" value="demotest.RestAPIautomation" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RestPost" type="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demotest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="demotest.RestPost" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RestRequestChainingPost.addAndRemove" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Resttest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demotest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="demotest" />
+      <option name="MAIN_CLASS_NAME" value="demotest.RestRequestChainingPost" />
+      <option name="METHOD_NAME" value="addAndRemove" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.RestAPIautomation" />
+        <item itemvalue="TestNG.RestPost" />
+        <item itemvalue="TestNG.RestRequestChainingPost.addAndRemove" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a8c502a-bf24-4a85-97e4-9d8f7051bee0" name="Default Changelist" comment="" />
+      <created>1574774381068</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574774381068</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="RestRequestChainingPost_addAndRemove - 2019.11.26 at 18h 56m 20s.xml">
+      <configuration name="RestRequestChainingPost.addAndRemove" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="RestRequestChainingPost_addAndRemove - 2019.11.26 at 18h 56m 40s.xml">
+      <configuration name="RestRequestChainingPost.addAndRemove" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="RestRequestChainingPost_addAndRemove - 2019.11.26 at 18h 57m 31s.xml">
+      <configuration name="RestRequestChainingPost.addAndRemove" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="RestRequestChainingPost_addAndRemove - 2019.11.26 at 18h 57m 34s.xml">
+      <configuration name="RestRequestChainingPost.addAndRemove" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="RestRequestChainingPost_addAndRemove - 2019.11.26 at 19h 01m 25s.xml">
+      <configuration name="RestRequestChainingPost.addAndRemove" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="RestRequestChainingPost_addAndRemove - 2019.11.26 at 19h 03m 22s.xml">
+      <configuration name="RestRequestChainingPost.addAndRemove" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="RestPost - 2019.11.26 at 19h 14m 30s.xml">
+      <configuration name="RestPost" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="RestAPIautomation - 2019.11.26 at 19h 19m 02s.xml">
+      <configuration name="RestAPIautomation" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="RestAPIautomation - 2019.11.27 at 15h 56m 55s.xml">
+      <configuration name="RestAPIautomation" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>new FileInputStream(&quot;target/classes/environment.properties&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>new FileInputStream(&quot;..\\..\\environment.properties&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>new FileInputStream(&quot;.\\environment.properties&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>new FileInputStream(&quot;../environment.properties&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>new FileInputStream(&quot;environment.properties&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>new FileInputStream(&quot;../../classes/environment.properties&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>new FileInputStream(&quot;./classes/environment.properties&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>new FileInputStream(&quot;././classes/environment.properties&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Resttest</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.beust:jcommander:1.72</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
