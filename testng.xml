@@ -7,6 +7,17 @@
             <class name="demotest.RestAPIautomation"/>
         </classes>
     </test>
+    <test name="ECMS JSON" annotations="JDK" preserve-order="true">
+        <classes>
+            <class name="demotest.RestJSONValidation"/>
+        </classes>
+    </test>
+
+    <test name="ECMS PUT" annotations="JDK" preserve-order="true">
+        <classes>
+            <class name="demotest.RestPut"/>
+        </classes>
+    </test>
 
     <test name="ECMS-RequestChaining" annotations="JDK" preserve-order="true">
         <classes>

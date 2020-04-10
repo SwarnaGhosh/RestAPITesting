@@ -16,25 +16,13 @@ import io.restassured.path.json.JsonPath;
 import io.restassured.response.Response;
 
 
-@Author SWghosh
+/*@Author SWghosh */
 public class RestRequestChainingPost {
 
-	Properties prop = new Properties();
-
-	@BeforeTest
-	public void getHost() {
-		try {
-			FileInputStream file = new FileInputStream("target/classes/environment.properties");
-			prop.load(file);
-		} catch (IOException e) {
-			e.printStackTrace();
-		}
-
-	}
 
 	@Test
 	public void addAndRemove() {
-		RestAssured.baseURI = prop.getProperty("HOST");
+		RestAssured.baseURI = "http://216.10.245.166/maps";
 		String req = "{" + "\"location\": {" + "\"lat\": -33.8669710," + "\"lng\": 151.1958750" + "},"
 				+ "\"accuracy\": 50," + "\"name\": \"Google Shoes!\"," + "\"phone_number\": \"(02) 9374 4000\","
 				+ "\"address\": \"48 Pirrama Road, Pyrmont, NSW 2009, Australia\"," + "\"types\": [\"shoe_store\"],"
@@ -60,7 +48,7 @@ public class RestRequestChainingPost {
 	@Test(enabled = false)
 	public void deletePlace() {
 
-		RestAssured.baseURI = prop.getProperty("HOST");
+		RestAssured.baseURI = "http://216.10.245.166/maps";
 		String req = "{" + "\"location\": {" + "\"lat\": -33.8669710," + "\"lng\": 151.1958750" + "},"
 				+ "\"accuracy\": 50," + "\"name\": \"Google Shoes!\"," + "\"phone_number\": \"(02) 9374 4000\","
 				+ "\"address\": \"48 Pirrama Road, Pyrmont, NSW 2009, Australia\"," + "\"types\": [\"shoe_store\"],"
