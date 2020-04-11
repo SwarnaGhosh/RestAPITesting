@@ -1,2 +1,2 @@
 # RestAPITesting
-Consists basic Restapi Testing using RestAssured
+Consists basic Restapi Testing using RestAssured on BDD Approach
