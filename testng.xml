@@ -30,4 +30,10 @@
             <class name="demotest.RestPost"/>
         </classes>
     </test>
+
+    <test name="ECMS-JSON-POST" annotations="JDK" preserve-order="true">
+        <classes>
+            <class name="demotest.RestPostJsonPath"/>
+        </classes>
+    </test>
 </suite>

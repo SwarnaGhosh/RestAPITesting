@@ -2,17 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a8c502a-bf24-4a85-97e4-9d8f7051bee0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/RestAPITesting.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/RestAPITesting.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/demotest/RestAPIautomation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/demotest/RestAPIautomation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/demotest/RestJSONValidation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/demotest/RestJSONValidation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/demotest/RestPost.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/demotest/RestPost.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/demotest/RestRequestChainingPost.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/demotest/RestRequestChainingPost.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/demotest/RestPut.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/demotest/RestPut.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/util/RestUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/util/RestUtil.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/demotest/RestAPIautomation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/demotest/RestAPIautomation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/demotest/RestJSONValidation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/demotest/RestJSONValidation.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/demotest/RestPost.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/demotest/RestPost.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/demotest/RestRequestChainingPost.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/demotest/RestRequestChainingPost.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/demotest/RestPut.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/demotest/RestPut.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/util/RestUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/util/RestUtil.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +60,7 @@
       <recent name="C:\Resttest\src\test\java\demotest" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.RestRequestChainingPost">
+  <component name="RunManager" selected="TestNG.RestPostJsonPath">
     <configuration name="C:/RestAPITesting/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="RestAPITesting" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
@@ -103,7 +105,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RestPut" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="RestPostJsonPath" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="RestAPITesting" />
       <extension name="coverage">
         <pattern>
@@ -112,7 +114,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="demotest" />
-      <option name="MAIN_CLASS_NAME" value="demotest.RestPut" />
+      <option name="MAIN_CLASS_NAME" value="demotest.RestPostJsonPath" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -139,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.RestPostJsonPath" />
         <item itemvalue="TestNG.RestRequestChainingPost" />
         <item itemvalue="TestNG.RestJSONValidation" />
         <item itemvalue="TestNG.C:/RestAPITesting/testng.xml" />
         <item itemvalue="TestNG.RestPost" />
-        <item itemvalue="TestNG.RestPut" />
       </list>
     </recent_temporary>
   </component>
@@ -177,22 +179,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586529312548" />
-    <state width="1493" height="332" key="GridCell.Tab.0.bottom" timestamp="1586551078254">
+    <state width="1493" height="332" key="GridCell.Tab.0.bottom" timestamp="1586594240891">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="332" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586551078254" />
-    <state width="1493" height="332" key="GridCell.Tab.0.center" timestamp="1586551078254">
+    <state width="1493" height="332" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586594240891" />
+    <state width="1493" height="332" key="GridCell.Tab.0.center" timestamp="1586594240891">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="332" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586551078254" />
-    <state width="1493" height="332" key="GridCell.Tab.0.left" timestamp="1586551078254">
+    <state width="1493" height="332" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586594240891" />
+    <state width="1493" height="332" key="GridCell.Tab.0.left" timestamp="1586594240891">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="332" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586551078254" />
-    <state width="1493" height="332" key="GridCell.Tab.0.right" timestamp="1586551078254">
+    <state width="1493" height="332" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586594240891" />
+    <state width="1493" height="332" key="GridCell.Tab.0.right" timestamp="1586594240891">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="332" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586551078254" />
+    <state width="1493" height="332" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586594240891" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1586547677184">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -209,6 +211,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1586547677184" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1586591205828">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586591205828" />
     <state x="594" y="239" key="export.test.results" timestamp="1586529322183">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

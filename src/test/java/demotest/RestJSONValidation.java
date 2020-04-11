@@ -8,6 +8,8 @@ import util.RestUtil;
 import static io.restassured.RestAssured.given;
 import static org.hamcrest.Matchers.*;
 
+/*@author=Swarnaprabha Ghosh*/
+
 public class RestJSONValidation extends RestUtil {
 
     @BeforeClass

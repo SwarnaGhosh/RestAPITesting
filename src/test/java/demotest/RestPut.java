@@ -10,6 +10,8 @@ import java.util.HashMap;
 import static io.restassured.RestAssured.given;
 import static org.hamcrest.Matchers.*;
 
+/*@author=Swarnaprabha Ghosh*/
+
 public class RestPut extends RestUtil {
 
     HashMap map=new HashMap();

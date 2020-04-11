@@ -9,6 +9,8 @@ import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
 import util.RestUtil;
 
+/*@author=Swarnaprabha Ghosh*/
+
 public class RestAPIautomation extends RestUtil {
 
 	@Test
